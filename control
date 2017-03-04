@@ -1,0 +1,9 @@
+Package: com.rabih96.bbtan
+Name: BBTAN Pro
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: An awesome BBTAN tweak!
+Maintainer: Rabih Mteyrek
+Author: Rabih Mteyrek
+Section: Tweaks

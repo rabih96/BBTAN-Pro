@@ -1,0 +1,1 @@
+{ Filter = { Bundles = ( "com.crater.bbtan", "com.apple.springboard" ); }; }
